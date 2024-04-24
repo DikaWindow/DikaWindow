@@ -1,6 +1,0 @@
-{
-    "files.autoSave": "onWindowChange",
-    "editor.renderWhitespace": "all",
-    "editor.experimental.asyncTokenizationLogging": true,
-    "editor.experimental.asyncTokenizationVerification": true
-}
